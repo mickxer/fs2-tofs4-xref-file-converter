@@ -4,7 +4,7 @@ import files.fs2_replace_vector3
 import files.fs2_replace_lines
 
 import glob
-for filename in glob.glob('/Users/cedrikrex/Desktop/fs2_2_fs4_test/*.toc'):
+for filename in glob.glob('/ad/file/path/*.toc'):
 
     files.convert_to_lower_case.convert_to_lower_case(filename)
     files.fs2_replace_xref.fs2_xref_elements(filename)
