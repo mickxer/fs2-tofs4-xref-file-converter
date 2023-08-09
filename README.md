@@ -9,7 +9,7 @@ It will also convert the entire xref-file to lowercase and it willreplace [xref]
 1.download the entire "fs2_to_fs4_convertr" folder
 2.open the main.py file and ad your path to the folder, which contains the xref-file (important: only one file at time)
 3.open Terminal
-4.cd /your/main.py
+4.cd /your_path/main.py
 5.python3 main.py
 
 If you have done everythink correct your file will be convertet as wanted.
