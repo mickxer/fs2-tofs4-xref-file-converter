@@ -1,5 +1,5 @@
 # fs2-tofs4-xref-file-converter
-This project is a short program, which converts the xref-files from the Aerofly-fs2 format to the fs4 format.
+This project is a short program, which converts the xref-files from the Aerofly FS2 format to the FS4 format.
 
 In the folder "fs2_to_fs4_converter" is the main.py file, which will be executed via Terminal.
 There is also the "fs2_xref_flow32_direction.txt" and the "fs4_xref_flow64.txt" file, the programm will look for those files (and replace them).
